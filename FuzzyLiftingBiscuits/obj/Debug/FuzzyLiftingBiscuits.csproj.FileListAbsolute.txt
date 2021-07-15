@@ -1,0 +1,17 @@
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\FuzzyLiftingBiscuits\bin\Debug\FuzzyLiftingBiscuits.dll
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\FuzzyLiftingBiscuits\bin\Debug\FuzzyLiftingBiscuits.pdb
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\FuzzyLiftingBiscuits\bin\Debug\0Harmony.dll
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\FuzzyLiftingBiscuits\bin\Debug\Assembly-CSharp.dll
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\FuzzyLiftingBiscuits\bin\Debug\PulsarPluginLoader.dll
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\FuzzyLiftingBiscuits\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\FuzzyLiftingBiscuits\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\FuzzyLiftingBiscuits\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\FuzzyLiftingBiscuits\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\FuzzyLiftingBiscuits\bin\Debug\ACTk.Runtime.dll
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\FuzzyLiftingBiscuits\bin\Debug\PLInputBase.dll
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\FuzzyLiftingBiscuits\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\FuzzyLiftingBiscuits\obj\Debug\FuzzyLiftingBiscuits.csprojAssemblyReference.cache
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\FuzzyLiftingBiscuits\obj\Debug\FuzzyLiftingBiscuits.csproj.CoreCompileInputs.cache
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\FuzzyLiftingBiscuits\obj\Debug\FuzzyLiftingBiscuits.csproj.CopyComplete
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\FuzzyLiftingBiscuits\obj\Debug\FuzzyLiftingBiscuits.dll
+C:\Users\brave\Documents\GitHub\Pulsar-Plugins\FuzzyLiftingBiscuits\obj\Debug\FuzzyLiftingBiscuits.pdb
